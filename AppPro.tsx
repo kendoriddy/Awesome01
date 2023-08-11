@@ -14,7 +14,7 @@ function AppPro(): JSX.Element {
     <SafeAreaView>
       <View style={styles.container}>
         <Text style={isDarkMode ? styles.whiteText : styles.darkText}>
-          AppAppAppAppApp
+          Hello World
         </Text>
       </View>
     </SafeAreaView>
